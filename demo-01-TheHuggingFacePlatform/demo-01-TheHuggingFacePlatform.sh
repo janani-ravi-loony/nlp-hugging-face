@@ -22,6 +22,8 @@ https://huggingface.co/
 
 # Explore models in Natural Language Processing
 
+# Click on "Tasks" on the top left
+
 # Click on 
 
 Text Classification
@@ -72,7 +74,9 @@ gemma
 
 # Select
 
-Qwen/Qwen-Image
+lightx2v/Qwen-Image-Lightning
+
+# On the top-right click on "Use this model" and show the option
 
 # Click through to the model and show the inference API
 
@@ -113,7 +117,7 @@ A dog wearing glasses
 
 # Select "Image Editing"
 
-# Choose Qwen Image 2512
+# Choose Sneak-Moose/Pro-Realism-Edit-Studio (Uses a Qwen model)
 
 # Upload
 
@@ -130,9 +134,7 @@ Please add a rider to this horse
 
 # Under trending apps find
 
-Miragic-AI/Miragic-Virtual-Try-On
-
-Kwai-Kolors/Kolors-Virtual-Try-On
+build-small-hackathon/llm-cinema
 
 # Use one of the examples
 
