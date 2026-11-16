@@ -66,6 +66,8 @@ gemma
 ---------------------------------------
 # Inferencing API
 
+# The Hugging Face Inference API lets you run machine learning models hosted on remote servers by making API calls, without downloading the models or running them on your own computer.
+
 # Go back to Models
 
 # Under Computer Vision -> Text to Image
@@ -74,13 +76,13 @@ gemma
 
 # Select
 
-lightx2v/Qwen-Image-Lightning
+black-forest-labs/FLUX.1-dev
 
 # On the top-right click on "Use this model" and show the option
 
 # Click through to the model and show the inference API
 
-# Add a prompt
+# Add a prompt (this now requires credits $0.10 is free)
 
 A penguin playing cricket
 
@@ -111,11 +113,26 @@ A dog wearing glasses
 # Create interactive frontends using tools like Gradio, Streamlit, or even custom HTML/JS.
 # Share your app with a simple URL, just like you would for a GitHub repo.
 
-# Spaces annotated with "Zero" are zero-GPU spaces (they do not utilize GPUs)
+# Spaces annotated with "Zero" are zero-GPU spaces 
+# ZeroGPU is Hugging Face's shared, on-demand GPU infrastructure for Spaces. It allows you to deploy applications that need GPU acceleration without renting a dedicated GPU or paying for GPU hardware continuously.
 
 # Scroll and show the options
 
+# Show a trending app
+
+Harness Leaderboard
+
 # Select "Image Editing"
+
+# Choose Kwai-Kolors/Kolors-Virtual-Try-On
+
+# Choose 
+
+Jensen Huang
+
+Mini mouse
+
+# Run
 
 # Choose Sneak-Moose/Pro-Realism-Edit-Studio (Uses a Qwen model)
 
